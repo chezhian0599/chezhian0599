@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chezhian0599&label=Profile%20views&color=0e75b6&style=flat" alt="chezhian0599" /> </p>
 
-- 🔭 I’m currently working on **my End Semester Project**
+- 🔭 I’m currently working on **my End Semester Project.**
 
-- 🌱 I’m currently learning **SQL, Power BI**
+- 🌱 I’m currently learning **SQL, Power BI.**
 
 - 🤝 I’m looking for **Internship to start with my professional career kindly help me regarding this.**
 
-- 💬 Ask me about **Python, Statistics, Machine Learning**
+- 💬 Ask me about **Python, Statistics, Machine Learning.**
 
 - 📫 How to reach me **[Linkedin Profile](https://www.linkedin.com/in/elanchezhian-k-r-3661751a7/), [Kaggle Profile](https://www.kaggle.com/elanchezhiankr)**
 
