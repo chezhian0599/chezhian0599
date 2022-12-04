@@ -1,10 +1,26 @@
-### Hello, I'm Elanchezhian! 👋
+[![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-3.gif?w=1024)](https://rishavchanda.io)
+<h1 align="center">Hello 👋, I'm Elanchezhian K R!</h1>
+<h3 align="center">A passionate Data Analyst from India</h3>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/lvLaG5hPCncAAAAC/data-analysis.gif">
 
-- 🔭 I’m currently working on my  End Semester Project.
-- 🌱 I’m currently learning  SQL, Power BI.
-- 🤔 **I’m looking for an Internship to start with my professional career kindly help me regarding this.**
-- 💬 Ask me about Python, Statistics, Machine Learning.
-- 📫 How to reach me: [Linkedin Profile](https://www.linkedin.com/in/elanchezhian-k-r-3661751a7/), [Kaggle Profile](https://www.kaggle.com/elanchezhiankr)
-- 😄 Pronouns: He/Him
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chezhian0599&label=Profile%20views&color=0e75b6&style=flat" alt="chezhian0599" /> </p>
 
+- 🔭 I’m currently working on **my End Semester Project**
 
+- 🌱 I’m currently learning **SQL, Power BI**
+
+- 🤝 I’m looking for **Internship to start with my professional career kindly help me regarding this.**
+
+- 💬 Ask me about **Python, Statistics, Machine Learning**
+
+- 📫 How to reach me **[Linkedin Profile](https://www.linkedin.com/in/elanchezhian-k-r-3661751a7/), [Kaggle Profile](https://www.kaggle.com/elanchezhiankr), [Gmail](elanchezhian51099@gmail.com)**
+
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chezhian0599&show_icons=true&locale=en" alt="chezhian0599" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chezhian0599&" alt="chezhian0599" /></p>
