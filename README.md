@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Python, Statistics, Machine Learning**
 
-- 📫 How to reach me **[Linkedin Profile](https://www.linkedin.com/in/elanchezhian-k-r-3661751a7/), [Kaggle Profile](https://www.kaggle.com/elanchezhiankr),[Gmail](elanchezhian51099@gmail.com)**
+- 📫 How to reach me **[Linkedin Profile](https://www.linkedin.com/in/elanchezhian-k-r-3661751a7/), [Kaggle Profile](https://www.kaggle.com/elanchezhiankr), [Gmail](elanchezhian51099@gmail.com)**
 
 
 <p align="left">
