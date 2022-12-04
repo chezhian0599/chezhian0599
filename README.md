@@ -12,7 +12,8 @@
 
 - 💬 Ask me about **Python, Statistics, Machine Learning.**
 
-- 📫 How to reach me **[Linkedin Profile](https://www.linkedin.com/in/elanchezhian-k-r-3661751a7/), [Kaggle Profile](https://www.kaggle.com/elanchezhiankr), [Hackerrank](https://www.hackerrank.com/elanchezhian99t), [Leetcode](https://leetcode.com/ElanRock/)**
+- :pushpin:  Profiles:  **[Linkedin](https://www.linkedin.com/in/elanchezhian-k-r-3661751a7/), [Kaggle](https://www.kaggle.com/elanchezhiankr), [Hackerrank](https://www.hackerrank.com/elanchezhian99t), [Leetcode](https://leetcode.com/ElanRock/)**
+- 📫 Contact me here: **[Gmail](mailto:elanchezhian51099@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)**
 
 
 <p align="left">
