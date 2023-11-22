@@ -1,16 +1,16 @@
 [![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-3.gif?w=1024)](https://rishavchanda.io)
-<h1 align="center">Hello 👋, I'm Elanchezhian K R!</h1>
+<h1 align="center">Hai there 👋, Welcome to my Github Profile</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chezhian0599&label=Profile%20views&color=0e75b6&style=flat" alt="chezhian0599" /> </p>
 
-- 🔭 I’m currently working on **my End Semester Project.**
+- 🔭 I’m currently working as **Group Analyst** at **Infiniti Software Solutions Pvt Ltd**
 
-- 🌱 I’m currently learning **SQL, Power BI.**
+- 🌱 I’m currently learning **SQL, Power BI**
 
-- 🤝 I’m looking for **Internship to start with my professional career kindly help me regarding this.**
+- 🤝 I’m currently gaining Domain Insights about **Airline Industry**
 
-- 💬 Ask me about **Python, Statistics, Machine Learning.**
+- 💬 Ask me about **Python, Statistics, Machine Learning, Gen AI**
 
 - :pushpin:  Profiles:  **[Linkedin](https://www.linkedin.com/in/elanchezhian-k-r-3661751a7/), [Kaggle](https://www.kaggle.com/elanchezhiankr), [Hackerrank](https://www.hackerrank.com/elanchezhian99t), [Leetcode](https://leetcode.com/ElanRock/)**
 - 📫 Contact me here: **[Gmail](mailto:elanchezhian51099@gmail.com?subject=[GitHub]%20Source%20Elanchezhian%20K_R)**
