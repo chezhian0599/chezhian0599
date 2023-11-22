@@ -1,5 +1,5 @@
 [![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-3.gif?w=1024)](https://rishavchanda.io)
-<h1 align="center">Hai there 👋, Welcome to my Github Profile</h1>
+<h1 align="center">Hello Everyone Welcome to my Github</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chezhian0599&label=Profile%20views&color=0e75b6&style=flat" alt="chezhian0599" /> </p>
