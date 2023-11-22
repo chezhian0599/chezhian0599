@@ -6,7 +6,8 @@
 
 - 🔭 I’m currently working as **Group Analyst** at **Infiniti Software Solutions Pvt Ltd**
 
-- 🌱 I’m currently learning **SQL, Power BI**
+- 🌱 I’m currently contributing for an Opensource Initiative
+  **"Aya" by Cohere for building Native Language LLMs**
 
 - 🤝 I’m currently gaining Domain Insights about **Airline Industry**
 
